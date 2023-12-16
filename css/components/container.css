@@ -1,0 +1,24 @@
+h2 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.card {
+  width: 200px;
+  border: 1px solid rgb(230,230,230);
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  order: 1px solid rgb(230,230,230);
+}
+ .card img {
+  width: 150px;
+ }
